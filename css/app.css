@@ -492,7 +492,7 @@ section {
   position: relative;
   z-index: 2;
   color: transparent;
-  background: url(/images/img7.png) no-repeat 50%;
+  background: url(../images/img7.png) no-repeat 50%;
   -webkit-background-clip: text;
   background-clip: text;
 }
